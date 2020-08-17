@@ -1,0 +1,56 @@
+.detail{
+    margin-top: 50px;
+    font-size: 1rem;
+}
+.detail li{
+    display: inline-block;
+    width: 25%;
+}
+img{
+    width: 100%;
+}
+.gray{
+    background-color:  #F2F2F2;
+    
+}
+
+.inforbasic{
+    background-color: rgb(85, 85, 235);
+    border-radius: 9px;
+    padding: 10px;
+    color: white;
+    margin: 0px;
+   
+}
+
+.abilities{
+    background-color: rgb(85, 85, 235);
+    border-radius: 9px;    
+    padding: 10px;
+    margin: 3px;
+}
+.abilities a{
+    color: white;
+}
+.inforbasic a{
+    color: white;
+}
+.skill{
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 15px;
+    background-color: #a4a4a4;
+}
+.nameP p{
+    font-size: 30px;
+    color: black;
+    margin-bottom: 5px;
+}
+.nameP{
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 25px;
+}
+.right{
+    text-align: right;
+}

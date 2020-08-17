@@ -1,0 +1,39 @@
+.pagelink{
+    min-width: 30px;
+    max-width: 30px;
+    padding: 5px;
+    border: 1px solid #dbdbdb;
+    margin: 2px;
+    text-align: center;
+    border-radius: 4px;
+}
+.pagelink a{
+    text-align: center;
+    width: 100%;
+}
+.page .col{
+    padding: 0px;
+    flex-wrap: wrap;
+    display: flex;
+}
+li {
+    display: list-item;
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+.page{
+    align-items: center;
+}
+.page ul{
+    margin: 0px;
+}
+.pagelink:hover{
+    border: 1px solid gray;
+}
+.pagelink_click{
+    background-color: greenyellow;
+}
+.pagelink_click a{
+    color: white;
+}
